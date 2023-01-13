@@ -69,7 +69,7 @@ fun main(){
 //            return i % 2 == 0
 //        }
 //    }
-    val isGerade = IstGueltig
-
-    println("Die Zahl ist Gerade? ${istGueltig.accept(3)}")
+//    val isGerade = IstGueltig
+//
+//    println("Die Zahl ist Gerade? ${istGueltig.accept(3)}")
 }
